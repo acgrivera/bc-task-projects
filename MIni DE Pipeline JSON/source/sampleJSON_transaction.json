@@ -1,0 +1,8 @@
+[
+{"transaction_id":"1","customer_id":"101","amount":"500","currency":"USD"},
+{"transaction_id":"2","customer_id":"102","amount":"200","currency":"USD"},
+{"transaction_id":"3","customer_id":"103","amount":"50","currency":"PHP"},
+{"transaction_id":"4","customer_id":"104","amount":"200","currency":"PHP"},
+{"transaction_id":"5","customer_id":"105","amount":"100","currency":"PHP"},
+{"transaction_id":"5","customer_id":"105","amount":"400","currency":"PHP"}
+]

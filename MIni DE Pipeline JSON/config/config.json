@@ -1,0 +1,6 @@
+{
+    "input_file":"source/sampleJSON_transaction.json",
+    "tax_rate":0.12,
+    "taxed_output":"output/transaction_with_tax.json",
+    "aggregated_output":"output/aggregated_by_currency.json"
+}
