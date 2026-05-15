@@ -1,0 +1,9 @@
+{
+    "api_url":"https://api.open-meteo.com/v1/forecast",
+    "latitude":14.5851,
+    "longitude":121.0565,
+    "timezone":"Asia/Manila",
+    "raw_output":"data/raw_weather.json",
+    "clean_output":"data/clean_weather.json",
+    "summary_output":"data/weather_summary.json"
+}
