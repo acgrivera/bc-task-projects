@@ -1,0 +1,8 @@
+Transaction ID,customer_id,Product_Name,Amount,Order Date,Region
+1001,C001,Laptop,1200.5,2023-01-15,North
+1002,C002,mouse,25,01/16/2023,south
+1003,,Wireless Keyboard,45.99,2023-01-17,North
+1004,C001,Monitor,NaN,2023-01-18,WEST
+1005,C003,laptop,1200.5,2023-02-19,North
+1006,C004,,15,2023-02-20,East
+ERROR_ROW,9999,Junk,0,00/00/0000,null
