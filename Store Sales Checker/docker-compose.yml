@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:18
+    container_name: store_sales_checker-postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: pc_store
+    ports:
+      - "5435:5435"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+
+volumes:
+  postgres_data:
